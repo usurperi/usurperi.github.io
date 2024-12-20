@@ -31,7 +31,6 @@ email: srparasocials@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   art, music, blog probably because i don't want to use social media
 baseurl: "" # the subpath of your site, e.g. /blog
-	/blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 	https://userperi.github.io
 twitter_username: I DON'T HAVE TWITTER
